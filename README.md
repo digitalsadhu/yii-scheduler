@@ -95,7 +95,7 @@ Lists all currently scheduled tasks
 Runs all scheduled tasks that are in the past. If the --name flag is not passed, all matching tasks will be executed. If the flag is passed in, only tasks with matching 'name' field in the database will be run.
 
 #### Flags
-- --name (required)
+- --name (optional)
 
 #### Examples:
 
